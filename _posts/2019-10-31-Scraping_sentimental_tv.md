@@ -3,7 +3,8 @@ layout: post
 title: "First Blog Post"
 date: 2019-10-31
 ---
-
+<h2><strong>A Scrapy Tv Show</strong></h2>
+<br>
 <h3><strong>Project Overview</strong></h3>
 <p>
 This Analysis will attempt to understand what it takes to have a successful TV show. To answer the purposed question, 
@@ -26,7 +27,8 @@ These negative sentiments could reveal people's inclinations towards the dramati
 </p>
 <img src="https://github.com/jwr1015/jwr1015.github.io/blob/master/images/movie_3.PNG?raw=true">
 <br>
-<strong> For a more detailed analysis and code example, please click <a href="jwr1015.github.io/markdown_links/scrapy_markdown.html">here</a></strong>
+<strong> For a more detailed analysis and code example, please click<a href="jwr1015.github.io/markdown_links/scrapy_markdown.html
+">here</a></strong>
 
 
 

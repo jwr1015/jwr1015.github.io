@@ -15,7 +15,7 @@ most importantly, can this description be used to predict a video games performa
 curated dataset that has tokenized the description of 10,000 video games which were found on itunes. The issues going forward 
 will be how to most effectively deal with an extremely sparse matrix and which type of model performs best on this type of dataset.
 
-<h2> ** Click  <a href="https://jwr1015.github.io/links/joshua_roberge_quiz_2.html">here</a>** </h2>
+<h2> ** Click  <a href="https://jwr1015.github.io/links/joshua_roberge_quiz_2.html">here</a>** for the analysis</h2>
 
 
 

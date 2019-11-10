@@ -1,6 +1,6 @@
 ---
 title: "Video Games: A Predictive Description"
-layout: single
+layout: default
 date: 2019-11-10
 tags:
   - NLP

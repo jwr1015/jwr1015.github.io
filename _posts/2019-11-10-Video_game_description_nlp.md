@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Iconic Tv Shows"
-date: 2019-10-31
+title: "Predcitve Description: Video Game descriptions"
+date: 2019-11-10
 tags:
   - NLP
   - Python

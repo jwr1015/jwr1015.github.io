@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Predcitve Description: Video Game descriptions"
+title: "Phone Apps: A Predictive Description"
 date: 2019-11-10
 tags:
   - NLP

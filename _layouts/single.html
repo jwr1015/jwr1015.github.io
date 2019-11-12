@@ -47,6 +47,7 @@ layout: default
       </section>
 
       <footer class="page__meta">
+        {% include comments.html %}
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}

@@ -2,6 +2,12 @@
 title: "A Predictive Review: A Text Analysis of Amazon Reviews"
 layout: splash
 date: 2020-02-03
+tags:
+  - Sentiment Analysis
+  - Tokenizing
+  - NLP
+  - Supervised 
+  - Unsupervised
 <!-- header:
   overlay_image: /assets/images/workflow_amazon.PNG -->
 last_modified_at: 2018-11-3

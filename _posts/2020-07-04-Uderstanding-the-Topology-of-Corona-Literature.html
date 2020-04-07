@@ -37,7 +37,7 @@ The data for this analysis was collected from a Kaggle competition, and it consi
 <p style = "text-indent : 5em;">
 The first step to analyzing the COVID papers was acquiring the data from Kaggle. After acquiring the data from Kaggle, a CSV file was created which had each observation as a COVID article with main text and abstract as features. The proceeding steps in the process map were cyclic and were repeated a total of five times.
 </p>
-<p style = "text-indent : 5em;"><img src="/assets/images/SOM_Analysis/Slide4_1.jpg" style="float:left;margin:0 20px 20px 0;" width = "600" >
+<p style = "text-indent : 3em;"><img src="/assets/images/SOM_Analysis/Slide4_1.jpg" style="float:left;margin:0 20px 20px 0;" width = "600" >
 The next step took each article and created a term frequency-inversed document frequency L1 normalized matrix (TFiDF). The parameters for making the TFiDf consisted of keeping one and two word ngrams and removing English stop words.  After creating a TFiDf, the training process for the self-organizing map was started. At every run, the SOM was initialized with PCA weights, and every run ran through each observation once. As demonstrated in the figure below, at every training phase topographical and quantized error was checked in order the ensure that the SOM converged to a steady-state.
 </p>
 
